@@ -1,0 +1,34 @@
+_repo: The-willow-weaver-and-seven-other-tales_72241
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, Michael
+    alias: Hooper, Joy
+    gutenberg_agent_id: '56609'
+    url: http://www.gutenberg.org/2009/agents/56609
+description: ''
+gutenberg_issued: '2023-11-27'
+identifiers:
+  gutenberg: '72241'
+language: en
+pgterms:marc904: https://archive.org/details/willowweaverseve00woodiala/
+pgterms:marc905: 20230922171100wood
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: Carol Brown, Aaron Adrignola, Gísli Valgeirsson and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aUnited States :$bE. P. Dutton & Co., $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Mysticism -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The willow weaver -- The bending of the twig -- The mystery of the
+  son of man -- the excellent versatility of the minor poet -- "The tree of beauty"
+  -- Forty-eight hours -- The breath upon the slain -- The glamour-land.
+title: The willow weaver, and seven other tales
+url: http://www.gutenberg.org/ebooks/72241
