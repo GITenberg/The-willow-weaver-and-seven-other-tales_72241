@@ -1,5 +1,8 @@
 _repo: The-willow-weaver-and-seven-other-tales_72241
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72241-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, Michael
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '56609'
     url: http://www.gutenberg.org/2009/agents/56609
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72241#The-willow-weaver-and-seven-other-tales
 gutenberg_issued: '2023-11-27'
 identifiers:
   gutenberg: '72241'
